@@ -111,7 +111,7 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0a0a0f?style=for-the-badge&logo=astro&logoColor=22d3ee)](https://joshuakunz.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0a0a0f?style=for-the-badge&logo=astro&logoColor=22d3ee)](https://joshuakunz.com)
 [![Email](https://img.shields.io/badge/Email-0a0a0f?style=for-the-badge&logo=gmail&logoColor=22d3ee)](mailto:contact@joshuakunz.com)
 
 </div>

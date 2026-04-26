@@ -53,13 +53,13 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats.vercel.app/api?username=joshuakunz&show_icons=true&include_all_commits=true&rank_icon=github&theme=dark&bg_color=0a0a0f&border_color=1e293b&title_color=22d3ee&icon_color=22d3ee&text_color=e2e8f0"
+    srcset="https://github-readme-stats.vercel.app/api?username=jokudev&show_icons=true&include_all_commits=true&rank_icon=github&theme=dark&bg_color=0a0a0f&border_color=1e293b&title_color=22d3ee&icon_color=22d3ee&text_color=e2e8f0"
   />
   <source
     media="prefers-color-scheme: light)"
-    srcset="https://github-readme-stats.vercel.app/api?username=joshuakunz&show_icons=true&include_all_commits=true&rank_icon=github"
+    srcset="https://github-readme-stats.vercel.app/api?username=jokudev&show_icons=true&include_all_commits=true&rank_icon=github"
   />
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=joshuakunz&show_icons=true&include_all_commits=true&rank_icon=github" />
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jokudev&show_icons=true&include_all_commits=true&rank_icon=github" />
 </picture>
 
 <br><br>
@@ -67,13 +67,13 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=joshuakunz&layout=compact&langs_count=10&theme=dark&bg_color=0a0a0f&border_color=1e293b&title_color=22d3ee&text_color=e2e8f0"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jokudev&layout=compact&langs_count=10&theme=dark&bg_color=0a0a0f&border_color=1e293b&title_color=22d3ee&text_color=e2e8f0"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=joshuakunz&layout=compact&langs_count=10"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jokudev&layout=compact&langs_count=10"
   />
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshuakunz&layout=compact&langs_count=10" />
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jokudev&layout=compact&langs_count=10" />
 </picture>
 
 </div>
@@ -85,9 +85,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/joshuakunz/joshuakunz/refs/heads/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/joshuakunz/joshuakunz/refs/heads/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/joshuakunz/joshuakunz/refs/heads/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jokudev/jokudev/refs/heads/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jokudev/jokudev/refs/heads/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jokudev/jokudev/refs/heads/output/github-contribution-grid-snake.svg">
 </picture>
 
 </div>
@@ -100,10 +100,5 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0a0a0f?style=for-the-badge&logo=astro&logoColor=22d3ee)](https://joshuakunz.github.io)
 [![Email](https://img.shields.io/badge/Email-0a0a0f?style=for-the-badge&logo=gmail&logoColor=22d3ee)](mailto:contact@joshuakunz.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0f?style=for-the-badge&logo=linkedin&logoColor=22d3ee)](https://linkedin.com/in/joshuakunz)
 
 </div>
-
-<p align="center">
-  <sub><code>status: ok | lehrjahr: 4/4 | abschluss: 2026 | version: joshua-1.0.0</code></sub>
-</p>

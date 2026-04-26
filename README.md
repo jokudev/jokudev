@@ -41,6 +41,7 @@
   <img src="https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=white&style=for-the-badge" alt="GitLab" />
   <img src="https://img.shields.io/badge/Maven-C71A36?logo=apachemaven&logoColor=white&style=for-the-badge" alt="Maven" />
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?logo=intellijidea&logoColor=white&style=for-the-badge" alt="IntelliJ IDEA" />
+  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?logo=sonarqube&logoColor=white&style=for-the-badge" alt="SonarQube" />
 </p>
 
 ### `drwxr-xr-x  homelab/`

@@ -4,14 +4,14 @@
 ┌──────────────────────────────────────────┐
 │  joshua@homelab:~$ neofetch              │
 │                                          │
-│  OS:       EFZ Applikationsentwicklung   │
+│  OS:       Software Developer Apprentice │
 │  Host:     Swiss Aviation Software Ltd.  │
-│  Kernel:   4. Lehrjahr                   │
+│  Kernel:   4/4 Years                     │
 │  Uptime:   2022 – 2026                   │
 │  Shell:    zsh                           │
-│  Location: Itingen, CH                   │
+│  Location: Basel, CH                     │
 │                                          │
-│  Fokus: Linux · Cloud · DevOps · Homelab │
+│  Likes: Linux · Cloud · DevOps · Homelab │
 └──────────────────────────────────────────┘
 </pre>
 
@@ -25,12 +25,25 @@
 - 🎓 Apprentice **Informatiker EFZ** (4th year) at Swiss Aviation Software Ltd.
 - 🐧 Passionate about **Linux, Infrastructure & Cloud**
 - 🏠 Running a **production-like Homelab** with Docker, K8s & Terraform
-- 🏆 **SwissSkills Cloud Computing** — 1st place regionals 2025, qualified for nationals 2027
+- 🏆 **SwissSkills Cloud Computing** — 1st place regionals 2025, 4th place nationals 2025
 - 📫 Reach me at **contact@joshuakunz.com**
 
 ---
 
 ## `$ ls -la ~/stack/`
+
+### `drwxr-xr-x  professional/`
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white&style=for-the-badge" alt="Java" />
+  <img src="https://img.shields.io/badge/Swing-007396?logo=java&logoColor=white&style=for-the-badge" alt="Swing" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=white&style=for-the-badge" alt="GitLab" />
+  <img src="https://img.shields.io/badge/Maven-C71A36?logo=apachemaven&logoColor=white&style=for-the-badge" alt="Maven" />
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?logo=intellijidea&logoColor=white&style=for-the-badge" alt="IntelliJ IDEA" />
+</p>
+
+### `drwxr-xr-x  homelab/`
 
 <p align="center">
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" alt="Linux" />
@@ -41,7 +54,6 @@
   <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge" alt="AWS" />
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" alt="Git" />
   <img src="https://img.shields.io/badge/GitLab_CI-FC6D26?logo=gitlab&logoColor=white&style=for-the-badge" alt="GitLab CI" />
-  <img src="https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white&style=for-the-badge" alt="Java" />
 </p>
 
 ---

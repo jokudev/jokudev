@@ -4,9 +4,9 @@
 ┌──────────────────────────────────────────┐
 │  joshua@homelab:~$ neofetch              │
 │                                          │
-│  OS:       Software Developer Apprentice │
+│  OS:       Software Developer EFZ        │
 │  Host:     Swiss Aviation Software Ltd.  │
-│  Kernel:   4/4 Years                     │
+│  Kernel:   EFZ & BM completed            │
 │  Uptime:   2022 – 2026                   │
 │  Shell:    zsh                           │
 │  Location: Basel, CH                     │
@@ -22,7 +22,8 @@
 ## `$ whoami`
 
 - 👋 Hi, I'm **Joshua Kunz**
-- 🎓 Apprentice **Informatiker EFZ** (4th year) at Swiss Aviation Software Ltd.
+- 🎓 Completed **Informatiker EFZ** and **Berufsmaturität (BM)** at Swiss Aviation Software Ltd.
+- 🏅 Graduated **EFZ "Im Rang"** with grade **5.7** and **BM** with grade **4.9** (Swiss grading system)
 - 🐧 Passionate about **Linux, Infrastructure & Cloud**
 - 🏠 Running a **production-like Homelab** with Docker, K8s & Terraform
 - 🏆 **SwissSkills Cloud Computing** — 1st place regionals 2025, 4th place nationals 2025
